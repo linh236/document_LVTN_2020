@@ -1,0 +1,13 @@
+mo hinh rails 
+yc.
+	Chủ nhà trọ và Khách hàng quản lý, theo dõi và điều khiển các thiết bị điện trong mỗi phòng trọ.
+	Chủ nhà trọ theo dõi, quản lý quá trình thuê và vận hành các phòng trọ tại khu vực mình phụ trách.
+	Người quản trị theo dõi, quản lý quá trình thuê và vận hành các phòng trọ tại tất cả các khu vực.
+	
+	
+table: full
+mục luc về hình ảnh, table
+api: tao table
+ddieu chinh tieu de tren app
+mail xac nhn da thanh toan.
+stauts: feedback -> 4: new,process,done,close
